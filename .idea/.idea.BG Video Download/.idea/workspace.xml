@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88f55e01-8480-4635-bc67-5d3c988f72df" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/BackgroundDownloads/Documentation/Readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="38" column="79" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ManagerScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+              <folding>
+                <marker date="1553776073549" expanded="true" signature="6:125" ph="..." />
+                <marker date="1553776073549" expanded="true" signature="169:1563" ph="{...}" />
+                <marker date="1553776073549" expanded="true" signature="406:462" ph="{...}" />
+                <marker date="1553776073549" expanded="true" signature="485:577" ph="{...}" />
+                <marker date="1553776073549" expanded="true" signature="509:571" ph="{...}" />
+                <marker date="1553776073549" expanded="true" signature="610:643" ph="{...}" />
+                <marker date="1553776073549" expanded="true" signature="678:803" ph="{...}" />
+                <marker date="1553776073549" expanded="true" signature="832:1142" ph="{...}" />
+                <marker date="1553776073549" expanded="true" signature="962:1042" ph="{...}" />
+                <marker date="1553776073549" expanded="true" signature="1172:1561" ph="{...}" />
+                <marker date="1553776073549" expanded="true" signature="1215:1510" ph="{...}" />
+                <marker date="1553776073549" expanded="true" signature="1377:1500" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/BackgroundDownloads/Scripts/Core/BackgroundDownloads.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="977">
+              <caret line="121" column="34" selection-start-line="121" selection-start-column="34" selection-end-line="121" selection-end-column="34" />
+              <folding>
+                <marker date="1553771538371" expanded="false" signature="6:47" ph="..." />
+                <marker date="1553771538371" expanded="true" signature="49:254" ph="/// Provides an API for downloading files &amp; data in the background (even when the app is not running). ... " />
+                <marker date="1553771538371" expanded="true" signature="294:4088" ph="{...}" />
+                <marker date="1553771538371" expanded="true" signature="316:413" ph="/// Indicates an error occurred while starting the download. ... " />
+                <marker date="1553771538371" expanded="true" signature="528:791" ph="/// Returns the platform-specific &lt;see cref=&quot;IBackgroundDownloader&quot;/&gt; implementation for the current platform. ... " />
+                <marker date="1553771538371" expanded="true" signature="843:1264" ph="{...}" />
+                <marker date="1553771538371" expanded="true" signature="861:1258" ph="{...}" />
+                <marker date="1553771538371" expanded="true" signature="907:1216" ph="{...}" />
+                <marker date="1553771538371" expanded="true" signature="1270:1575" ph="/// Starts a download with the given URL. ... " />
+                <marker date="1553771538371" expanded="true" signature="1637:1751" ph="{...}" />
+                <marker date="1553771538371" expanded="true" signature="1754:1853" ph="/// Starts a download with the given download configuration options. ... " />
+                <marker date="1553771538371" expanded="true" signature="1935:2113" ph="{...}" />
+                <marker date="1553771538371" expanded="true" signature="2119:2403" ph="/// Starts or continues tracking an ongoing download with the given URL. ... " />
+                <marker date="1553771538371" expanded="true" signature="2475:2563" ph="{...}" />
+                <marker date="1553771538371" expanded="true" signature="2569:2881" ph="/// Starts or continues tracking an ongoing download. ... " />
+                <marker date="1553771538371" expanded="true" signature="2976:3250" ph="{...}" />
+                <marker date="1553771538371" expanded="true" signature="3089:3224" ph="{...}" />
+                <marker date="1553771538371" expanded="true" signature="3257:3381" ph="/// Cancels the download that is tracked by the given &lt;see cref=&quot;DownloadOperation&quot;/&gt; object. ... " />
+                <marker date="1553771538371" expanded="true" signature="3445:3664" ph="{...}" />
+                <marker date="1553771538371" expanded="true" signature="3479:3519" ph="{...}" />
+                <marker date="1553771538371" expanded="true" signature="3670:3966" ph="/// Returns the ongoing &lt;see cref=&quot;DownloadOperation&quot;/&gt; object associated with the given URL. ... " />
+                <marker date="1553771538371" expanded="true" signature="4032:4086" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>StartD</find>
+      <find>persis</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/BackgroundDownloads/Scripts/Core/BackgroundDownloadOptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ManagerScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BackgroundDownloads/Scripts/Core/BackgroundDownloads.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/BackgroundDownloads/Scripts/Core/BackgroundDownloads.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ManagerScript.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88f55e01-8480-4635-bc67-5d3c988f72df" name="Default Changelist" comment="" />
+      <created>1553669910552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553669910552</updated>
+      <workItem from="1553669920536" duration="116000" />
+      <workItem from="1553670230498" duration="120000" />
+      <workItem from="1553670466288" duration="2333000" />
+      <workItem from="1553684569578" duration="3067000" />
+      <workItem from="1553768668083" duration="6758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12394000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25637585" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/BackgroundDownloads/Documentation/Readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="38" column="79" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/BackgroundDownloads/Scripts/Core/BackgroundDownloadOptions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="78" column="98" lean-forward="true" selection-start-line="78" selection-start-column="98" selection-end-line="78" selection-end-column="98" />
+          <folding>
+            <marker date="1551432966000" expanded="false" signature="6:35" ph="..." />
+            <marker date="1551432966000" expanded="true" signature="37:126" ph="/// Options for customizing the background download process. ... " />
+            <marker date="1551432966000" expanded="true" signature="165:3076" ph="{...}" />
+            <marker date="1551432966000" expanded="true" signature="326:414" ph="/// The URL for the data that should be downloaded. ... " />
+            <marker date="1551432966000" expanded="true" signature="501:611" ph="/// The path to save the downloaded data in, once the download completes. ... " />
+            <marker date="1551432966000" expanded="true" signature="642:713" ph="{...}" />
+            <marker date="1551432966000" expanded="true" signature="758:834" ph="{...}" />
+            <marker date="1551432966000" expanded="true" signature="864:976" ph="/// The title to display for the ongoing download in the notification area. ... " />
+            <marker date="1551432966000" expanded="true" signature="997:1048" ph="{...}" />
+            <marker date="1551432966000" expanded="true" signature="1083:1123" ph="{...}" />
+            <marker date="1551432966000" expanded="true" signature="1163:1281" ph="/// The description to display for the ongoing download in the notification area. ... " />
+            <marker date="1551432966000" expanded="true" signature="1311:1370" ph="{...}" />
+            <marker date="1551432966000" expanded="true" signature="1374:1489" ph="/// Initializes a new instance of the &lt;see cref=&quot;BackgroundDownloadOptions&quot;/&gt; class. ... " />
+            <marker date="1551432966000" expanded="true" signature="1535:1949" ph="{...}" />
+            <marker date="1551432966000" expanded="true" signature="1571:1654" ph="{...}" />
+            <marker date="1551432966000" expanded="true" signature="1818:1921" ph="{...}" />
+            <marker date="1551432966000" expanded="true" signature="1952:2235" ph="/// Sets the destination path (folder) for storing the downloaded data. ... " />
+            <marker date="1551432966000" expanded="true" signature="2312:2477" ph="{...}" />
+            <marker date="1551432966000" expanded="true" signature="2361:2458" ph="{...}" />
+            <marker date="1551432966000" expanded="true" signature="2480:2596" ph="/// Sets the notification title text that will be shown while the download is active. ... " />
+            <marker date="1551432966000" expanded="true" signature="2653:2727" ph="{...}" />
+            <marker date="1551432966000" expanded="true" signature="2677:2708" ph="{...}" />
+            <marker date="1551432966000" expanded="true" signature="2730:2912" ph="/// Sets the notification description text that will be shown while the download is active. ... " />
+            <marker date="1551432966000" expanded="true" signature="2981:3074" ph="{...}" />
+            <marker date="1551432966000" expanded="true" signature="3011:3054" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/BackgroundDownloads/Scripts/Core/BackgroundDownloads.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="977">
+          <caret line="121" column="34" selection-start-line="121" selection-start-column="34" selection-end-line="121" selection-end-column="34" />
+          <folding>
+            <marker date="1553771538371" expanded="false" signature="6:47" ph="..." />
+            <marker date="1553771538371" expanded="true" signature="49:254" ph="/// Provides an API for downloading files &amp; data in the background (even when the app is not running). ... " />
+            <marker date="1553771538371" expanded="true" signature="294:4088" ph="{...}" />
+            <marker date="1553771538371" expanded="true" signature="316:413" ph="/// Indicates an error occurred while starting the download. ... " />
+            <marker date="1553771538371" expanded="true" signature="528:791" ph="/// Returns the platform-specific &lt;see cref=&quot;IBackgroundDownloader&quot;/&gt; implementation for the current platform. ... " />
+            <marker date="1553771538371" expanded="true" signature="843:1264" ph="{...}" />
+            <marker date="1553771538371" expanded="true" signature="861:1258" ph="{...}" />
+            <marker date="1553771538371" expanded="true" signature="907:1216" ph="{...}" />
+            <marker date="1553771538371" expanded="true" signature="1270:1575" ph="/// Starts a download with the given URL. ... " />
+            <marker date="1553771538371" expanded="true" signature="1637:1751" ph="{...}" />
+            <marker date="1553771538371" expanded="true" signature="1754:1853" ph="/// Starts a download with the given download configuration options. ... " />
+            <marker date="1553771538371" expanded="true" signature="1935:2113" ph="{...}" />
+            <marker date="1553771538371" expanded="true" signature="2119:2403" ph="/// Starts or continues tracking an ongoing download with the given URL. ... " />
+            <marker date="1553771538371" expanded="true" signature="2475:2563" ph="{...}" />
+            <marker date="1553771538371" expanded="true" signature="2569:2881" ph="/// Starts or continues tracking an ongoing download. ... " />
+            <marker date="1553771538371" expanded="true" signature="2976:3250" ph="{...}" />
+            <marker date="1553771538371" expanded="true" signature="3089:3224" ph="{...}" />
+            <marker date="1553771538371" expanded="true" signature="3257:3381" ph="/// Cancels the download that is tracked by the given &lt;see cref=&quot;DownloadOperation&quot;/&gt; object. ... " />
+            <marker date="1553771538371" expanded="true" signature="3445:3664" ph="{...}" />
+            <marker date="1553771538371" expanded="true" signature="3479:3519" ph="{...}" />
+            <marker date="1553771538371" expanded="true" signature="3670:3966" ph="/// Returns the ongoing &lt;see cref=&quot;DownloadOperation&quot;/&gt; object associated with the given URL. ... " />
+            <marker date="1553771538371" expanded="true" signature="4032:4086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="96" lean-forward="true" selection-start-line="13" selection-start-column="96" selection-end-line="13" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ManagerScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          <folding>
+            <marker date="1553776073549" expanded="true" signature="6:125" ph="..." />
+            <marker date="1553776073549" expanded="true" signature="169:1563" ph="{...}" />
+            <marker date="1553776073549" expanded="true" signature="406:462" ph="{...}" />
+            <marker date="1553776073549" expanded="true" signature="485:577" ph="{...}" />
+            <marker date="1553776073549" expanded="true" signature="509:571" ph="{...}" />
+            <marker date="1553776073549" expanded="true" signature="610:643" ph="{...}" />
+            <marker date="1553776073549" expanded="true" signature="678:803" ph="{...}" />
+            <marker date="1553776073549" expanded="true" signature="832:1142" ph="{...}" />
+            <marker date="1553776073549" expanded="true" signature="962:1042" ph="{...}" />
+            <marker date="1553776073549" expanded="true" signature="1172:1561" ph="{...}" />
+            <marker date="1553776073549" expanded="true" signature="1215:1510" ph="{...}" />
+            <marker date="1553776073549" expanded="true" signature="1377:1500" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

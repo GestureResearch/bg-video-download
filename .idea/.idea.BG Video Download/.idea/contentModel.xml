@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\parit\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\parit\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_BG Video Download.258602693.00" t="ExcludeRecursive" />
+    <e p="C:\Users\parit\Desktop\BG Video Download" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="BackgroundDownloads" t="Include">
+          <e p="Documentation" t="Include">
+            <e p="CHANGELOG.txt" t="Include" />
+            <e p="Readme.txt" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Core" t="Include">
+              <e p="BackgroundDownloadOptions.cs" t="Include" />
+              <e p="BackgroundDownloads.cs" t="Include" />
+              <e p="Cached.cs" t="Include" />
+              <e p="DownloadStatus.cs" t="Include" />
+              <e p="IBackgroundDownloader.cs" t="Include" />
+            </e>
+            <e p="Coroutines" t="Include">
+              <e p="DownloadOperation.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="Tests" t="Include">
+                <e p="BackgroundDownloadOptionsTests.cs" t="Include" />
+                <e p="BackgroundDownloadsTests.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Platforms" t="Include">
+              <e p="Android" t="Include">
+                <e p="AndroidDownloader.cs" t="Include" />
+                <e p="AndroidDownloadOperation.cs" t="Include" />
+              </e>
+              <e p="iOS" t="Include">
+                <e p="iOSDownloader.cs" t="Include" />
+                <e p="iOSDownloadOperation.cs" t="Include" />
+                <e p="iOSRuntimeInit.cs" t="Include" />
+              </e>
+              <e p="UnityEditor" t="Include">
+                <e p="EditorDownloader.cs" t="Include" />
+                <e p="EditorDownloadOperation.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ManagerScript.cs" t="Include" />
+        </e>
+      </e>
+      <e p="BG Video Download.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
